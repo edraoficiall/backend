@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "start": "uvicorn server:app --reload"
-  }
-}
